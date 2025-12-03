@@ -1,11 +1,15 @@
 # Arc-Raiders-Radar-Discord-Bot-Help
 Just a repository to manage tickets/issues for my Arc Raiders Radar Discord Bot
 
-**/setup**: -> Will create roles and channels
+**/setup**: -> Will create roles and channels.
+
 **/sub**: Assign yourself a role to get pinged when there's a specific map/event combination, or a specific event on any map.
-**/unsub**: Unassign yourself a role
-**/delete_channels**: Delete all of this bot generated channels
-**/delete_roles**: Delete all of this bot generated roles
+
+**/unsub**: Unassign yourself a role.
+
+**/delete_channels**: Delete all of this bot generated channels.
+
+**/delete_roles**: Delete all of this bot generated roles.
 
 Fetching everything directly from https://metaforge.app/arc-raiders/api
 
